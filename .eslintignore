@@ -1,0 +1,23 @@
+# Next.js specific files
+.next/
+# Shadcn specific files
+src/components/
+# Node modules and build output
+node_modules/
+
+# Environment files
+.env*
+!.env.example
+
+# Public assets and static files
+public/
+
+
+# Storybook (if used)
+.storybook/
+stories/
+
+# Jest coverage directory
+coverage/
+
+
