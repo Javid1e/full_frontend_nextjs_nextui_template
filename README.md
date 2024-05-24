@@ -1,4 +1,3 @@
-
 # Full Frontend Next.js Next UI Template
 
 This repository serves as a template for developing frontend applications using Next.js and Shaadcn. It provides a foundation for building modern and responsive user interfaces.
