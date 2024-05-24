@@ -59,6 +59,8 @@ const config = {
         sm: 'calc(var(--radius) - 4px)',
       },
       fontFamily: {
+        iransans: ['var(--font-iran-sans)'],
+        iranyekan: ['var(--font-iran-yekan)'],
       },
       keyframes: {
         'accordion-down': {
